@@ -1,9 +1,18 @@
 [
    {
     "author": "WPX",
+    "collections": "MINIMALIST",
+    "copyright": "Free Personal Use",
+    "name": "cat",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/Aisthesis/refs/heads/main/Network/Pxl/02.png",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/Aisthesis/refs/heads/main/Network/Pxl/02_th.jpg",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+   {
+    "author": "WPX",
     "collections": "FLORALS",
     "copyright": "Free Personal Use",
-    "name": "FLWRS",
+    "name": "flwrs",
     "url": "https://raw.githubusercontent.com/WaifuPX-DG/Aisthesis/refs/heads/main/Network/Pxl/01.png",
     "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/Aisthesis/refs/heads/main/Network/Pxl/01_th.jpg",
     "dimensions": "Personal use only. No commercial purposes."
