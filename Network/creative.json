@@ -1,6 +1,24 @@
 [
    {
     "author": "WPX",
+    "collections": "GRADIENT",
+    "copyright": "Free Personal Use",
+    "name": "grdnt",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/Aisthesis/refs/heads/main/Network/Pxl/04.png",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/Aisthesis/refs/heads/main/Network/Pxl/04_th.jpg",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+   {
+    "author": "WPX",
+    "collections": "LENTICULAR",
+    "copyright": "Free Personal Use",
+    "name": "nt",
+    "url": "https://raw.githubusercontent.com/WaifuPX-DG/Aisthesis/refs/heads/main/Network/Pxl/03.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/WaifuPX-DG/Aisthesis/refs/heads/main/Network/Pxl/03_th.jpg",
+    "dimensions": "Personal use only. No commercial purposes."
+  },
+   {
+    "author": "WPX",
     "collections": "MINIMALIST",
     "copyright": "Free Personal Use",
     "name": "cat",
